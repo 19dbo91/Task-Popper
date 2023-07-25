@@ -1,7 +1,7 @@
 # Task Popper
 
 ## Live:
-https://secret-reef-91746-210dc06d9a2f.herokuapp.com/
+https://polar-falls-15096-ec42d57531c1.herokuapp.com/login
 
 ## Description
 
@@ -25,12 +25,13 @@ The user can click on the + button circle to create an entirely new task if they
 ## Credits
 
 Created by: 
-Dustin Bonilla: https://github.com/19dbo91
-Joel Quezada: https://github.com/SirDrPancake
-Jake Norris: https://github.com/Searaden
+- Dustin Bonilla: https://github.com/19dbo91
+- Joel Quezada: https://github.com/SirDrPancake
+- Jake Norris: https://github.com/Searaden
 
 ## Other Links
-Live: https://secret-reef-91746-210dc06d9a2f.herokuapp.com/
-Github Repo: https://github.com/Searaden/Task-Popper
+Live: https://polar-falls-15096-ec42d57531c1.herokuapp.com/login
+Github Repo: https://polar-falls-15096-ec42d57531c1.herokuapp.com/
+-    (forked from:) https://github.com/Searaden/Task-Popper 
 Pitch: https://docs.google.com/presentation/d/1i1kod8kaOXrFI5FsuI1t5q0vLrG1t00wkSUDEmT2Ji4/edit#slide=id.p
 WireFrame: https://www.figma.com/file/B3oRHV984h00eQ1sNYFwcf/Untitled?type=design&node-id=0-1&mode=design&t=u0XAp9a7NKRu7Hkw-0
